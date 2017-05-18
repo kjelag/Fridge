@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Fridge/bin/Debug/netcoreapp1.1
+/Fridge/obj
+/Fridge/obj
+/Fridge.API/bin/Debug/netcoreapp1.1
+/Fridge.API/obj
+/FridgeUnitTest/bin/Debug/netcoreapp1.1
+/FridgeUnitTest/obj
+/packages
